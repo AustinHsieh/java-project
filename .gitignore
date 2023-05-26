@@ -1,0 +1,3 @@
+/target/*
+applica*.log
+.vscode/*
